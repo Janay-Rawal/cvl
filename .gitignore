@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config folders
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+
+# Environment folders
+.venv/
+env/
+venv/
+
+# Python virtualenv files
+*.egg-info/
+*.egg
+*.whl
+Pipfile.lock
+poetry.lock
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Video output files
+*.avi
+*.mp4
+
+# Image outputs
+*.png
+*.jpg
+*.jpeg
+
+# Model files and weights
+*.pt
+*.h5
+*.pb
+*.onnx
